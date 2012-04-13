@@ -1,0 +1,18 @@
+matchStringDepth=3
+outputFileSize=60
+fileEncoding=utf8
+//urlfilter
+filterFile=resource/extract/filter/pageTypeFilter.xml
+wordFilterFile=resource/extract/filter/wordFilter.txt
+//blog
+blogOntologyFile=resource/extract/ontology/blog.ontology
+blogDir=resource/extract/output
+blogPrefix=blogResult
+newsOntologyFile=resource/extract/ontology/news.ontology
+newsDir=resource/extract/output
+newsPrefix=newsResult
+postOntologyFile=resource/extract/ontology/post.ontology
+postDir=resource/extract/output
+postPrefix=postResult
+//for debug
+rawDataFile=../WebPageExtractor/rawData/crawled_results.00000

@@ -1,0 +1,60 @@
+#新闻类
+	http://ent.163.com/		http://ent.163.com/*
+	http://ent.163.com/		http://ent.163.com/*
+	http://ent.sina.com.cn/		http://ent.sina.com.cn/*
+	
+	http://ent.qq.com/		http://ent.qq.com/*  
+	
+
+   	http://ent.ifeng.com/	http://ent.ifeng.com/*
+	http://ent.dahe.cn/		http://ent.dahe.cn/*
+
+	http://msn.ent.ynet.com/	http://msn.ent.ynet.com/*
+	
+	http://enjoy.eastday.com/	http://enjoy.eastday.com/*
+	http://et.21cn.com/		http://et.21cn.com/*
+	http://yule.tom.com/	http://yule.tom.com/*
+        http://news.china.com.cn/ent/node_7065262.htm  	http://news.china.com.cn/ent/*
+
+	http://ent.rednet.cn/	http://ent.rednet.cn/*
+
+	http://bagua.ifensi.com/	http://bagua.ifensi.com/*
+	http://news.ifensi.com/		http://news.ifensi.com/*
+	http://movie.ifensi.com/	http://movie.ifensi.com/*
+	http://tv.ifensi.com/	http://tv.ifensi.com/*
+	http://music.ifensi.com/	http://music.ifensi.com/*
+
+#新闻类
+	http://data.ent.163.com/tv/tv/enttvrank.html    http://ent.163.com/*
+
+#一下种子为去掉星号之后的内容（报纸+电视台）
+	http://ent.oeeee.com/	http://ent.oeeee.com/*
+	http://ent.nfdaily.cn/	http://ent.nfdaily.cn/*
+	http://www.bjnews.com.cn/ent/	http://www.bjnews.com.cn/ent/*
+	hhttp://www.hunantv.com/	http://www.hunantv.com/*
+	http://ent.uusee.com/	http://ent.uusee.com/*
+	http://teleplay.uusee.com/	http://teleplay.uusee.com/*
+	http://movie.uusee.com/	http://movie.uusee.com/*
+	http://www.tvmao.com/	http://www.tvmao.com/*
+
+	http://ent.cntv.cn/		http://ent.cntv.cn/*
+	http://ent.v1.cn/	http://ent.v1.cn/*
+
+	http://v.163.com/tv/	http://v.163.com/tv/*
+	http://v.163.com/movie/	http://v.163.com/movie/*
+	http://v.163.com/variety/	http://v.163.com/variety/*
+	http://video.sina.com.cn/	http://video.sina.com.cn/*
+	http://v.qq.com/	http://v.qq.com/*
+	http://www.pipi.cn/	http://www.pipi.cn/*
+	http://ent.kankanews.com/	http://ent.kankanews.com/*
+
+#博客：只能从目录页进去：
+
+	http://ent.163.com/blog/   *blog.163.com/*
+	http://blog.qq.com/ent/   *blog.qq.com/qzone/*
+	http://blog.sina.com.cn/lm/ent/  *blog.sina.com.cn/*
+	http://blog.ifeng.com/more/7.html  *blog.ifeng.com/*
+	http://blog.sohu.com/yule/	 *.i.sohu.com/blog/* 
+	http://blog.sohu.com/yule/	*.blog.sohu.com/*
+
+http://ent.oeeee.com/	*ent.oeeee.com/*

@@ -1,0 +1,147 @@
+# 视频播放+分享类  （全部抓的(种子即主域名)）
+ http://www.tudou.com/	 *tudou.com/*
+ http://www.youku.com/ 	*youku.com/*
+ http://www.douban.com/ 	*douban.com/*
+ http://www.xunlei.com/ 	*xunlei.com/*
+ http://www.funshion.com/	*funshion.com/*
+ http://www.mtime.com/ 	*mtime.com/*
+ http://www.pptv.com/	 *pptv.com/*
+ http://www.pps.com/	*pps.com/*
+ http://www.pps.tv/		*pps.tv/*
+
+
+
+#档案库： 一下种子为去掉*
+http://data.ent.sina.com.cn/		http://data.ent.sina.com.cn/*
+http://data.yule.sohu.com/		http://data.yule.sohu.com/*
+http://ent.qq.com/		http://ent.qq.com/*
+http://data.yule.baidu.com/		http://data.yule.baidu.com/*
+
+#全站：
+http://www.1ting.com/	http://www.1ting.com/*
+http://www.9sky.com/	http://www.9sky.com/*
+http://www.xiami.com/	http://www.xiami.com/*
+
+#论坛类
+http://club.yule.sohu.com/  	http://club.yule.sohu.com/*
+http://club.ent.sina.com.cn/	http://club.ent.sina.com.cn/*
+http://bbs.ent.163.com/		http://bbs.ent.163.com/*
+http://bbs.ifeng.com/		http://bbs.ifeng.com/*
+http://tt.mop.com/		http://tt.mop.com/*
+http://bbs.ent.qq.com/		http://bbs.ent.qq.com/*
+
+	http://club.china.com/data/threads/3963/     http://club.china.com/data/thread/3963/*
+	http://club.china.com/data/threads/3967/    http://club.china.com/data/thread/3967/*
+	http://club.china.com/data/threads/3213920/    http://club.china.com/data/thread/3213920/*
+
+        #http://ent.19lou.com/ （种子，以下为各个正则表达式）
+		http://ent.19lou.com/	http://www.19lou.com/forum-125*
+		http://ent.19lou.com/	http://www.19lou.com/forum-109*
+		http://ent.19lou.com/	http://www.19lou.com/forum-44*
+		http://ent.19lou.com/	http://www.19lou.com/forum-22*	
+		http://ent.19lou.com/	http://www.19lou.com/forum-69*
+		http://ent.19lou.com/	http://www.19lou.com/forum-1630*
+
+	#种子   过滤器
+	http://club.kdnet.net/list.asp?boardid=26  http://club.kdnet.net/*boardid=26*
+	http://club.kdnet.net/list.asp?boardid=40  http://club.kdnet.net/*boardid=40*
+	http://club.kdnet.net/list.asp?boardid=27  http://club.kdnet.net/*boardid=27*
+	
+	#全部
+	www.xici.net    *xici.net/*
+
+	#tianya
+	http://ent.tianya.cn/ (种子url，一下为过滤器）
+     http://ent.tianya.cn/	     http://www.tianya.cn/publicforum/content/funinfo/*
+	 http://ent.tianya.cn/    http://www.tianya.cn/publicforum/content/filmtv/*
+	 http://ent.tianya.cn/    http://www.tianya.cn/publicforum/content/music/*
+	 http://ent.tianya.cn/    http://www.tianya.cn/publicforum/content/3d/*
+
+
+#新闻类
+	http://ent.163.com/		http://ent.163.com/*
+	http://ent.163.com/		http://ent.163.com/*
+	http://ent.sina.com.cn/		http://ent.sina.com.cn/*
+	
+	http://ent.qq.com/		http://ent.qq.com/*  
+	
+
+   	http://ent.ifeng.com/	http://ent.ifeng.com/*
+	http://ent.dahe.cn/		http://ent.dahe.cn/*
+
+	http://msn.ent.ynet.com/	http://msn.ent.ynet.com/*
+	
+	http://enjoy.eastday.com/	http://enjoy.eastday.com/*
+	http://et.21cn.com/		http://et.21cn.com/*
+	http://yule.tom.com/	http://yule.tom.com/*
+        http://news.china.com.cn/ent/node_7065262.htm  	http://news.china.com.cn/ent/*
+
+	http://ent.rednet.cn/	http://ent.rednet.cn/*
+
+	http://bagua.ifensi.com/	http://bagua.ifensi.com/*
+	http://news.ifensi.com/		http://news.ifensi.com/*
+	http://movie.ifensi.com/	http://movie.ifensi.com/*
+	http://tv.ifensi.com/	http://tv.ifensi.com/*
+	http://music.ifensi.com/	http://music.ifensi.com/*
+
+#新闻类
+	http://data.ent.163.com/tv/tv/enttvrank.html    http://ent.163.com/*
+
+#一下种子为去掉星号之后的内容（报纸+电视台）
+	http://ent.oeeee.com/	http://ent.oeeee.com/*
+	http://ent.nfdaily.cn/	http://ent.nfdaily.cn/*
+	http://www.bjnews.com.cn/ent/	http://www.bjnews.com.cn/ent/*
+	hhttp://www.hunantv.com/	http://www.hunantv.com/*
+	http://ent.uusee.com/	http://ent.uusee.com/*
+	http://teleplay.uusee.com/	http://teleplay.uusee.com/*
+	http://movie.uusee.com/	http://movie.uusee.com/*
+	http://www.tvmao.com/	http://www.tvmao.com/*
+
+	http://ent.cntv.cn/		http://ent.cntv.cn/*
+	http://ent.v1.cn/	http://ent.v1.cn/*
+
+	http://v.163.com/tv/	http://v.163.com/tv/*
+	http://v.163.com/movie/	http://v.163.com/movie/*
+	http://v.163.com/variety/	http://v.163.com/variety/*
+	http://video.sina.com.cn/	http://video.sina.com.cn/*
+	http://v.qq.com/	http://v.qq.com/*
+	http://www.pipi.cn/	http://www.pipi.cn/*
+	http://ent.kankanews.com/	http://ent.kankanews.com/*
+
+#博客：只能从目录页进去：
+
+	http://ent.163.com/blog/   *blog.163.com/*
+	http://blog.qq.com/ent/   *blog.qq.com/qzone/*
+	http://blog.sina.com.cn/lm/ent/  *blog.sina.com.cn/*
+	http://blog.ifeng.com/more/7.html  *blog.ifeng.com/*
+	http://blog.sohu.com/yule/	 *.i.sohu.com/blog/* 
+	http://blog.sohu.com/yule/	*.blog.sohu.com/*
+
+http://ent.oeeee.com/	*ent.oeeee.com/*
+
+#百度知道-电视	 
+http://zhidao.baidu.com/browse/97   http://zhidao.baidu.com/browse/97*
+#百度知道-电影
+http://zhidao.baidu.com/browse/96   http://zhidao.baidu.com/browse/96*
+#百度知道-音乐    
+http://zhidao.baidu.com/browse/99   http://zhidao.baidu.com/browse/99*
+#百度知道-动漫    
+http://zhidao.baidu.com/browse/100  http://zhidao.baidu.com/browse/100*
+#百度知道-明星    
+http://zhidao.baidu.com/browse/75   http://zhidao.baidu.com/browse/75*
+
+#百度贴吧
+	http://tieba.baidu.com/tb/index/v2/mingxing.html  tieba.baidu.com*
+        http://tieba.baidu.com/tb/index/v2/yingshi.html   tieba.baidu.com*
+	http://tieba.baidu.com/tb/index/v2/dongman.html   tieba.baidu.com* 
+#soso wenwen
+	http://wenwen.soso.com/z/c151322624.htm?ch=fl.fl   http://wenwen.soso.com/z/*
+	http://wenwen.soso.com/z/c151584768.htm?ch=fl.fl   http://wenwen.soso.com/z/*
+	http://wenwen.soso.com/z/c157745152.htm?ch=fl.fl   http://wenwen.soso.com/z/*
+	http://wenwen.soso.com/z/c153419776.htm?ch=fl.fl   http://wenwen.soso.com/z/*
+
+
+
+
+
+
